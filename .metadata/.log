@@ -1243,3 +1243,48 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2025-08-01 11:01:08.912
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:22:55.401
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:22:55.402
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@67eae1ea[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=555)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:22:55.427
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:22:55.649
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.708
+!MESSAGE Boot LS startup time from start to initialized: 5262ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.857
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QIPmdeiYisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.860
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.862
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.863
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.863
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.864
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QIPmdeiY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.882
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.884
+!MESSAGE buffering callback sts4.classpath.QIPmdeiY demo false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:00.884
+!MESSAGE executing callback sts4.classpath.QIPmdeiY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 11:23:01.206
+!MESSAGE executing callback sts4.classpath.QIPmdeiY SUCCESS [done]
