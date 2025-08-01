@@ -1329,3 +1329,18 @@ java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 16:19:18.025
 !MESSAGE executing callback sts4.classpath.QIPmdeiY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 16:25:50.508
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 16:25:50.513
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 16:25:50.517
+!MESSAGE buffering callback sts4.classpath.QIPmdeiY demo false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 16:25:50.519
+!MESSAGE executing callback sts4.classpath.QIPmdeiY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 16:25:50.577
+!MESSAGE executing callback sts4.classpath.QIPmdeiY SUCCESS [done]
